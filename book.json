@@ -1,0 +1,13 @@
+{
+    "title": "前端技术规范",
+    "output.name": "frontstandard",
+    "language": "zh-hans",
+    "root": ".",
+    "structure": {
+        "readme": "README.md"
+    },
+    "plugins": [
+        
+    ]
+    
+}
